@@ -1,2 +1,4 @@
 git innit
 git branch -M main
+git add.
+for adding updates
